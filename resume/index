@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <Title>Resume</Title>
+</head>
+<body>
+    <h1>Landon Sanders</h1>
+
+    <p>
+        Phone: <a href="tel:4071234567">(407) 123-4567</a><br>
+        Email: <a href="mailto:LandonSanders@email.com">LandonSanders@email.com</a><br>
+        Located At: Orlando, FL
+    </p>
+    <hr>
+    <h2>About Myself></h2>
+    <p>
+My name is Landon Sanders, and I am working towards a degree in some type of digital design. I put my best effort into whatever work I'm doing, and enjoy learning new skills to further my career.
+    </p>
+    <h2>Skills</h2>
+
+    <ul>
+        <li>Care</li>
+        <li>Creativity</li>
+        <li>Critical Thinking</li>
+        <li>Determination</li>
+        <li>Leadership</li>
+        <li>Open Mindset</li>
+        <li>Organization</li>
+        <li>Problem Solving</li>
+        <li>Teamwork</li>
+        <li>Time Efficiency</li>
+    </ul>
+    <hr>
+
+    <h2>Software/Hardware Knowledge</h2>
+
+    <ul>
+        <li>Adobe Illustrate</li>
+        <li>Adobe Photoshop</li>
+        <li>Studio 2.0</li>
+        <li>Parts Designer for Studio 2.0</li>
+        <li>Visual Studio Code</li>
+    </ul>
+    <hr>
+    <h2>Social Media/Web</h2>
+    <p>
+        GitHub: <a href="https://github.com/LandonJS709">LandonJS709</a>
+    </p>
+    <hr>
+    <h2>Work Samples</h2>
+    <img src="photos/SandersL_Final.JPG" alt="Photoshop and Adobe Illustrate render of Minecraft Skyblock.">
+    <img src="photos/New York City Spider-Man Updated.png" alt="A New York City Street with Spider-Man photoshopped onto a streetlight.">
+    <img src="photos/Hollywood Postcard.png" alt="Photoshoped postcard featuring the Hollywood sign built up of various Hollywood landmarks.">
+    <img src="photos/Nelson and Murdock.png" alt="A copy of the Nelson and Murdock building built in Studio 2.0.">
+    <img src="photos/Nintendo Entertainment System.png" alt="A Studio 2.0 build of a NES.">
+</body>
+</html>
